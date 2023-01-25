@@ -1,0 +1,32 @@
+1.JSON
+
+var housememberdetails{
+   "fathername=" xyz"
+  "Mothername="zyx"
+  "Sistername="abc"
+  "No.of mem" ="4"
+  "Father's age" = "55"
+  "Mother's age = "40"
+  "Sister's age = "28"
+  "Father's occupation =" labour"
+  "Monthly salary" = "1111" }
+
+2. RESUME DATA'S IN JSON
+
+   var Resumedetails{
+    " Name" ="Jai kishan"
+    " Age" = '23"
+   "gender" = " Male"
+   "Religion" ="Hindu"
+   "Nationality" ="Indian"
+   "D.O.B" = " 26.02.2000"
+   "Schooling"=" Sourashtra Hogher Secondary School"
+   "College"= "K.L.N College of Engineering"
+   " Known languages" = " Tamil, English"
+   "Area of interest "= " Elcetric circuits and machines"
+   "Hobbies" = " Football, Music, Travelling"}
+
+
+
+  
+ 
